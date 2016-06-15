@@ -2,4 +2,4 @@
 
 ###What did I learn today:
 
-Today we did some cool stuff.
+Today we did some cool stuff. And it was the best
