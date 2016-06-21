@@ -24,9 +24,9 @@ Today I learned that ....
 
 **LAB:**
 
-In Lab we had to compete a project of calculating cookie needs for a company with 5 different stores. We had to setup an object for each store. I than ran a nested for loops to update each store for each hour they needed to produce cookie. I wrote my own function to sum an array so I could provide totals for each store. 
+In Lab we had to compete a project of calculating cookie needs for a company with 5 different stores. We had to setup an object for each store. I then ran nested for loops to update each store for each hour they needed to produce cookies. I wrote my own function to sum an array so I could provide totals for each store. 
 
-Overall it was eaiser once I mapped out my logic on paper of the data I was going need, and I though about how I was going accomplish reporting the data. It got challenging when I had to update my code to calculate the cookies for all the stores.
+Overall it was eaiser once I mapped out my logic on paper of the data I was going need, and I thought about how I was going accomplish reporting the data. It got challenging when I had to update my code to calculate the cookies for all the stores.
 
 
 
