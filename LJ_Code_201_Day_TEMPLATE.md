@@ -1,4 +1,4 @@
-#LJ Code 201 - Day 8 (6/22)
+#LJ Code 201 - Day 10 (6/24)
 
 ###What did I learn today:
 
